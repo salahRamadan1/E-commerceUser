@@ -1,0 +1,32 @@
+.imgBrands {
+    height: 100px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    /* background-color: #495057; */
+}
+
+.search {
+    position: relative;
+}
+
+.iconeSearch {
+    position: absolute;
+    top: 30%;
+    right: 14%;
+
+}
+
+.iconeSearchClose {
+    position: absolute;
+    left: 14%;
+    top: 30%;
+
+}
+
+.mouseCursor {
+    cursor: pointer !important;
+}
